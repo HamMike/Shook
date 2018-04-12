@@ -11,9 +11,6 @@ class ShakeDetail extends Component {
     super(props)
     console.log(props)
     this.state = {
-      id: '',
-      proposer: props.data.proposer,
-      acceptor: props.data.acceptor,
       userId: ''
     }
   }

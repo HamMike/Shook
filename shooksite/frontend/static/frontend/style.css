@@ -55,6 +55,10 @@ body {
   width: 160px;
 }
 
+.allFormsStyle {
+  backgound-color: white;
+}
+
 #footer {
   background-color: #373F51;
 }
